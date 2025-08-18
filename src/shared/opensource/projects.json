@@ -2,46 +2,54 @@
   "data": [
     {
       "id": "R_kgDOJWL0-g",
-      "name": "mdp-diffusion",
-      "createdAt": "2023-04-13T04:18:19Z",
-      "url": "https://github.com/ashutosh1919/mdp-diffusion",
-      "description": "Text-guided image editing by manipulating diffusion path without any training.",
+      "name": "safeserveapp",
+      "createdAt": "2025-04-13T04:18:19Z",
+      "url": "https://github.com/tahir-1-cloud/safeserveapp.git",
+      "description": "SafeServeApp is a web application that integrates live sensor data monitoring (e.g., room and fridge temperatures) with task management features, enabling staff assignment, daily work scheduling, and improved operational efficiency",
       "isFork": false,
       "languages": [
         {
-          "name": "Python",
-          "iconifyClass": "logos-python"
+          "name": "C#",
+          "iconifyClass": "logos-c-sharp"
         },
         {
-          "name": "Shell",
-          "iconifyClass": "simple-icons:shell"
+          "name": "SQL",
+          "iconifyClass": "simple-icons:microsoftsqlserver"
         },
         {
-          "name": "Jupyter Notebook",
-          "iconifyClass": "logos-jupyter"
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
         }
       ]
     },
     {
       "id": "R_kgDOG_vYHA",
-      "name": "explainable-cnn",
+      "name": "Online Course Management System",
       "createdAt": "2022-03-13T20:41:33Z",
-      "url": "https://github.com/ashutosh1919/explainable-cnn",
-      "description": "📦 PyTorch based visualization package for generating layer-wise explanations for CNNs.",
+      "url": "https://github.com/tahir-1-cloud/OCM.git",
+      "description": "📦 The Online Course Management System is a comprehensive web application designed to streamline educational operations with role-based dashboards and access control.",
       "isFork": false,
       "languages": [
         {
-          "name": "Python",
-          "iconifyClass": "logos-python"
+          "name": "C#",
+          "iconifyClass": "logos-c-sharp"
+        },
+        {
+          "name": "SQL",
+          "iconifyClass": "simple-icons:microsoftsqlserver"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
         }
       ]
     },
     {
       "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
-      "name": "masterPortfolio",
-      "createdAt": "2020-03-06T16:26:54Z",
-      "url": "https://github.com/ashutosh1919/masterPortfolio",
-      "description": "🔥 The Complete Customizable Software Developer Portfolio Template which lets you showcase your work and provides each and every detail about you as Software Developer.",
+      "name": "Volker Rail App",
+      "createdAt": "2024-03-06T16:26:54Z",
+      "url": "https://github.com/tahir-1-cloud/Volkerrail.git",
+      "description": "🔥The Volker Rail App is a UK-based enterprise system developed to manage railway operations efficiently for Volker, covering vehicle management, employee control, and reporting.",
       "isFork": false,
       "languages": [
         {
@@ -57,17 +65,17 @@
           "iconifyClass": "logos-javascript"
         },
         {
-          "name": "Dockerfile",
-          "iconifyClass": "simple-icons:docker"
+          "name": ".NET Core",
+          "iconifyClass": "simple-icons:dotnet"
         }
       ]
     },
     {
       "id": "R_kgDOG0_8uQ",
-      "name": "react-awesome-shapes",
+      "name": "react-News App",
       "createdAt": "2022-02-11T14:50:20Z",
-      "url": "https://github.com/ashutosh1919/react-awesome-shapes",
-      "description": "🌀 Insert Awesome Shapes into Your React Site with Ease.",
+      "url": "https://github.com/tahir-1-cloud/NewsApp.git",
+      "description": "🌀 The News App is a dynamic web application built with React that provides users with real-time access to the latest news across multiple categories..",
       "isFork": false,
       "languages": [
         {
@@ -79,8 +87,8 @@
           "iconifyClass": "logos-css-3"
         },
         {
-          "name": "Shell",
-          "iconifyClass": "simple-icons:shell"
+          "name": "React",
+          "iconifyClass": "logos-react"
         },
         {
           "name": "JavaScript",
@@ -90,33 +98,45 @@
     },
     {
       "id": "R_kgDOGcPKSQ",
-      "name": "neuro-symbolic-sudoku-solver",
-      "createdAt": "2021-11-26T17:56:07Z",
-      "url": "https://github.com/ashutosh1919/neuro-symbolic-sudoku-solver",
-      "description": "⚙️ Solving sudoku using Deep Reinforcement learning in combination with powerful symbolic representations.",
+      "name": "Video Hashing & Scraping System",
+      "createdAt": "2025-6-26T17:56:07Z",
+      "url": "https://github.com/tahir-1-cloud/Hashing-Scrapping.git",
+      "description": "⚙️A microservices-based solution that automatically fingerprints videos and detects re-uploads—even if clips are trimmed, cropped, transcoded, or slightly edited—plus a YouTube scraping pipeline to discover external matches.",
       "isFork": false,
       "languages": [
         {
           "name": "Python",
           "iconifyClass": "logos-python"
+        },
+        {
+          "name": "C#",
+          "iconifyClass": "logos-c-sharp"
+        },
+        {
+          "name": ".NET Core",
+          "iconifyClass": "simple-icons:dotnet"
         }
       ]
     },
     {
       "id": "MDEwOlJlcG9zaXRvcnkzMjU5NDM1MTE=",
-      "name": "react-liquidswipe",
-      "createdAt": "2021-01-01T08:31:51Z",
-      "url": "https://github.com/ashutosh1919/react-liquidswipe",
-      "description": "🚀 Smooth Liquid Swipe Animation to transition between different components.",
+      "name": "POS",
+      "createdAt": "2022-05-01T08:31:51Z",
+      "url": "https://github.com/tahir-1-cloud/POS-System.git",
+      "description": "🚀 The POS (Point of Sale) Web Application is a comprehensive solution designed for large American retail stores, enabling seamless sales operations, inventory management, and financial control..",
       "isFork": false,
       "languages": [
         {
-          "name": "JavaScript",
-          "iconifyClass": "logos-javascript"
+          "name": "C#",
+          "iconifyClass": "logos-c-sharp"
         },
         {
-          "name": "CSS",
-          "iconifyClass": "logos-css-3"
+          "name": ".NET Core",
+          "iconifyClass": "simple-icons:dotnet"
+        },
+        {
+          "name": "SQL",
+          "iconifyClass": "simple-icons:microsoftsqlserver"
         }
       ]
     }
