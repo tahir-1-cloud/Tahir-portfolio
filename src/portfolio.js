@@ -84,6 +84,12 @@ const socialMediaLinks = [
     fontAwesomeIcon: "fa-instagram", // Reference https://fontawesome.com/icons/instagram?style=brands
     backgroundColor: "#E4405F", // Reference https://simpleicons.org/?q=instagram
   },
+  {
+    name: "WhatsApp",
+    link: "https://wa.me/923075944779", // replace with your number
+    fontAwesomeIcon: "fa-whatsapp", // Reference: https://fontawesome.com/icons/whatsapp?style=brands
+    backgroundColor: "#25D366", // Reference: https://simpleicons.org/?q=whatsapp
+  },
 ];
 
 const skills = {
