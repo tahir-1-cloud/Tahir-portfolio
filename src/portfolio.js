@@ -95,51 +95,6 @@ const socialMediaLinks = [
 const skills = {
   data: [
     {
-      title: "Data Science & AI",
-      fileName: "DataScienceImg",
-      skills: [
-        "⚡ Developing highly scalable production ready models for various deeplearning and statistical use cases",
-        "⚡ Experience of working with Computer Vision and NLP projects",
-        "⚡ Complex quantitative modelling for dynamic forecasting and time series analysis",
-      ],
-      softwareSkills: [
-        {
-          skillName: "Tensorflow",
-          fontAwesomeClassname: "logos-tensorflow",
-          style: {
-            backgroundColor: "transparent",
-          },
-        },
-        {
-          skillName: "Keras",
-          fontAwesomeClassname: "simple-icons:keras",
-          style: {
-            backgroundColor: "white",
-            color: "#D00000",
-          },
-        },
-        {
-          skillName: "PyTorch",
-          fontAwesomeClassname: "logos-pytorch",
-          style: {
-            backgroundColor: "transparent",
-          },
-        },
-        {
-          skillName: "Python",
-          fontAwesomeClassname: "ion-logo-python",
-          style: {
-            backgroundColor: "transparent",
-            color: "#3776AB",
-          },
-        },
-        {
-          skillName: "Deeplearning",
-          imageSrc: "deeplearning_ai_logo.png",
-        },
-      ],
-    },
-    {
       title: "Full Stack Development",
       fileName: "FullStackImg",
       skills: [
@@ -148,6 +103,14 @@ const skills = {
         "⚡ Creating applications in .NET, React, Node, Express, and Flask",
       ],
       softwareSkills: [
+        {
+          skillName: ".NET Core",
+          fontAwesomeClassname: "simple-icons:dotnet",
+          style: {
+            color: "#512BD4", // official .NET purple
+          },
+        },
+
         {
           skillName: "HTML5",
           fontAwesomeClassname: "simple-icons:html5",
@@ -226,6 +189,52 @@ const skills = {
           style: {
             color: "#02569B",
           },
+        },
+      ],
+    },
+
+    {
+      title: "Data Science & AI",
+      fileName: "DataScienceImg",
+      skills: [
+        "⚡ Developing highly scalable production ready models for various deeplearning and statistical use cases",
+        "⚡ Experience of working with Computer Vision and NLP projects",
+        "⚡ Complex quantitative modelling for dynamic forecasting and time series analysis",
+      ],
+      softwareSkills: [
+        {
+          skillName: "Tensorflow",
+          fontAwesomeClassname: "logos-tensorflow",
+          style: {
+            backgroundColor: "transparent",
+          },
+        },
+        {
+          skillName: "Keras",
+          fontAwesomeClassname: "simple-icons:keras",
+          style: {
+            backgroundColor: "white",
+            color: "#D00000",
+          },
+        },
+        {
+          skillName: "PyTorch",
+          fontAwesomeClassname: "logos-pytorch",
+          style: {
+            backgroundColor: "transparent",
+          },
+        },
+        {
+          skillName: "Python",
+          fontAwesomeClassname: "ion-logo-python",
+          style: {
+            backgroundColor: "transparent",
+            color: "#3776AB",
+          },
+        },
+        {
+          skillName: "Deeplearning",
+          imageSrc: "deeplearning_ai_logo.png",
         },
       ],
     },
@@ -332,6 +341,31 @@ const skills = {
           fontAwesomeClassname: "simple-icons:inkscape",
           style: {
             color: "#000000",
+          },
+        },
+      ],
+    },
+    {
+      title: "Payment Integration",
+      fileName: "PaymentIntegrationImg",
+      skills: [
+        "⚡ Seamless integration of secure payment gateways in web and mobile apps",
+        "⚡ Implementing PayPal and Stripe APIs for handling online transactions",
+        "⚡ Subscription management, refunds, and recurring billing setup",
+      ],
+      softwareSkills: [
+        {
+          skillName: "PayPal",
+          fontAwesomeClassname: "simple-icons:paypal",
+          style: {
+            color: "#003087", // PayPal Blue
+          },
+        },
+        {
+          skillName: "Stripe",
+          fontAwesomeClassname: "simple-icons:stripe",
+          style: {
+            color: "#635BFF", // Stripe Purple
           },
         },
       ],
